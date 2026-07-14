@@ -44,6 +44,14 @@ cover, just describe it and ask:
 It'll draft the new seat right there in the chat, ready to use the same way
 you use the others.
 
+## Want the deeper version
+
+If you're comfortable driving Claude directly and want less onboarding
+ceremony and more depth, there's an advanced mode: the same six seats, no
+setup wrapper, deeper reasoning folded into each one, and the seats made
+aware of each other so they know when to hand you to a teammate. Grab it
+here: https://github.com/tomdosfre/the-human-ai-os/tree/main/drops/01-leadership-team/advanced-mode
+
 ---
 Part of **the-human-ai-os**: a free, white-labeled drop from a working
 leadership-team system. Repo: https://github.com/tomdosfre/the-human-ai-os · Follow along: https://www.linkedin.com/in/tomasdostalfreire/
