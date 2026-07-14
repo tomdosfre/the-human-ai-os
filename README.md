@@ -7,9 +7,10 @@ paywall, no email required. **Built for Claude.**
 
 ## Get started in about 5 minutes
 
-1. **Download the drop.** Grab [`drop-01-leadership-team.zip`](drop-01-leadership-team.zip)
-   (or the latest Release) and unzip it, you get the whole folder: your
-   leadership team plus a `Start Here.txt`.
+1. **Download the drop.** Grab [`drop-01-leadership-team.zip`](https://github.com/tomdosfre/the-human-ai-os/releases/download/drop-01/drop-01-leadership-team.zip)
+   from the [latest Release](https://github.com/tomdosfre/the-human-ai-os/releases/latest)
+   and unzip it, you get the whole folder: your leadership team plus a
+   `Start Here.txt`.
 2. **Open `Start Here.txt`.** Copy the text inside it, paste it into a new chat
    in Claude ([claude.ai](https://claude.ai) or the Claude app), and send.
 3. **Follow your Onboarding Buddy.** It shows you the team, installs the files
