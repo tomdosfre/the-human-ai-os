@@ -2,7 +2,7 @@
 
 A realistic transcript of what happens the first time you talk to Chief of
 Staff inside your Claude Project, right after your Onboarding Buddy finishes
-the install (see `0_Start Here.txt`). "Sam" is a fictional small business
+the install (see `_Start Here.txt`). "Sam" is a fictional small business
 owner, nothing here is anyone's real data.
 
 ---

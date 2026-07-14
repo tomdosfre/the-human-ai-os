@@ -1,6 +1,6 @@
 # the-human-ai-os
 
-![Your leadership team in about 5 minutes: download the folder, open 0_Start Here.txt, follow your Buddy](start-here.svg)
+![Your leadership team in about 5 minutes: download the folder, open _Start Here.txt, follow your Buddy](start-here.svg)
 
 A free leadership team for your own AI, released one piece at a time, no
 paywall, no email required. **Built for Claude.**
@@ -10,8 +10,8 @@ paywall, no email required. **Built for Claude.**
 1. **Download the drop.** Grab [`drop-01-leadership-team.zip`](https://github.com/tomdosfre/the-human-ai-os/releases/download/drop-01/drop-01-leadership-team.zip)
    from the [latest Release](https://github.com/tomdosfre/the-human-ai-os/releases/latest)
    and unzip it, you get the whole folder: your leadership team plus a
-   `0_Start Here.txt`.
-2. **Open `0_Start Here.txt`.** Copy the text inside it, paste it into a new chat
+   `_Start Here.txt`.
+2. **Open `_Start Here.txt`.** Copy the text inside it, paste it into a new chat
    in Claude ([claude.ai](https://claude.ai) or the Claude app), and send.
 3. **Follow your Onboarding Buddy.** It shows you the team, installs the files
    into a Claude Project so they stick, then hands you the keys.
