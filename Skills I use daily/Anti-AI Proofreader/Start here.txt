@@ -1,0 +1,19 @@
+ANTI-AI PROOFREADER — set up in about 1 minute.
+
+Built for Claude.
+
+HOW TO USE:
+  1. Drop "Anti-AI Proofreader.skill" into Claude
+     (double-click it, or drag it into a chat, and click Save).
+  2. In any chat, type:   Proofreader, let's set you up
+  3. Answer the four quick questions. That's it.
+
+From then on, paste any draft and type "Proofreader". It hands you back a clean
+version in your own voice, with the AI tells stripped out (buzzwords, "it's not
+X, it's Y" phrasing, em-dash overuse, hype, throat-clearing intros).
+
+No install tools, no account, nothing leaves your chat.
+
+------------------------------------------------------------------------
+Follow me on LinkedIn as I share my full Claude setup, for free:
+https://www.linkedin.com/in/tomasdostalfreire/
