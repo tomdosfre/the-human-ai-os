@@ -1,0 +1,27 @@
+HELICOPTER: a second opinion for your AI. Set up in about 1 minute.
+
+Built for Claude.
+
+WHAT IT DOES:
+Helicopter is the colleague who leans back, sees the whole board, and tells you
+the truth. When you (or your AI) start overbuilding, overthinking, or heading the
+wrong way, it steps in with a clear call, not a wishy-washy "it depends." You get
+the recommendation, the one trap to watch, and the first step, which it takes for
+you. For big, hard-to-reverse decisions it can convene a panel of advisors who are
+paid to disagree, then a chair who makes the call.
+
+HOW TO USE:
+  1. Drop "Helicopter.skill" into Claude
+     (double-click it, or drag it into a chat, and click Save).
+  2. In any chat, when you feel yourself overcomplicating something, type:
+        step back      (or)      am I overcomplicating this?      (or)      helicopter view
+  3. It gives you the call. If the decision is big, ask it to "run the panel."
+
+It also fires on its own: while your AI is building with you, Helicopter speaks up
+the moment it smells scope creep, before you sink the hours.
+
+No install tools, no account, nothing leaves your chat.
+
+------------------------------------------------------------------------
+Follow me on LinkedIn as I share my full Claude setup, for free:
+https://www.linkedin.com/in/tomasdostalfreire/
